@@ -1,2 +1,2 @@
-# primeiro-repositorio-git-github
-Primeiro projeto de git e github
+# primeiro-repositório-Git-Github
+Primeiro projeto de Git e Github
